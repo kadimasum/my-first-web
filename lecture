@@ -1,0 +1,45 @@
+# 1. IAM
+# 2. Troubleshooting processes
+# 3. Networking basics
+
+
+IAM( Security in the cloud)
+--------
+Identity? - Principal(email, group-email, service-account)
+Access? - permissions -> Role
+Management - Processes leading to creation of permissions,roles,assigning
+
+Principle of least privilege/least permissions
+
+API - IAM(Identity access managent)
+
+Best practice( Give Role(permissions+perm+perm) at group level -> Add users )
+
+
+Cloud vs You
+----------
+cloud provider -> Ifra security
+Your - data security/workload security
+
+
+Zero trust policy
+
+
+Inputer( Captures data ) -> write, to which resource?
+Authorizer( Need to validate what has been captured)
+
+
+Types of roles
+------------
+
+- Basic roles  (view, Edit, Owner)
+- Predifined roles - (write, delete)
+- Custom roles - create yourself
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+

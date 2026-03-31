@@ -1,0 +1,11 @@
+- hosts: all
+  become: true
+  roles:
+    - test-connectivity
+    - install-apache
+    - start-apache
+    
+
+
+
+    

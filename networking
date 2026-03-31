@@ -1,0 +1,41 @@
+OSI Model
+-----------
+1. Application layer - add info              -data 
+2. Prsentation Layer - .txt, .mp3,encrypt    -data
+3. Session Layer - connection                -data
+4. Transport Layer - port                    -segment(UDP,TCP)
+5. Network layer - IP address                -packet
+6. Link Layer - Mac address                  -frame
+7. Physical Layer - Cables,etc               -bits(1,0)
+
+
+
+TCP/IP
+-------
+1. Application layer
+2. Transport layer
+3. Network layer
+4. Physical layer
+
+
+IP Addresses
+-----------
+128.34.7.0
+
+bits
+8bit.8bit.8bit.8bit
+32 bit IP
+IPV4 address
+2 ^ 32 ~= 4b
+
+IPV6
+Hexadecimal
+128bit
+
+Subnetting
+256 addresses
+
+Numbers = 10, 0 - 9 -> 10^0 = 1, 10^1 = 10
+
+
+bits = 1,0, 2 numbers = 2^0 =1 , 2 ^ 1 = 2, 2^8 = 256
